@@ -1,0 +1,16 @@
+{
+  "name": "SiniestroIA — Denuncia tu siniestro",
+  "short_name": "SiniestroIA",
+  "description": "Denunciá tu siniestro en 2 minutos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2965/2965879.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
